@@ -11,6 +11,12 @@ Secondary questions are around property locations by neighborhood.  What do pric
 
 Another area of exploration relates to what types of properties are available for rent from Airbnb Boston.
 
+Conclusions:
+* With some data cleaning and feature engineering, the data is suitable for predicting rental prices.
+* Random Forest Regression modeling worked much better than Linear Regression.  There might be better results if more different types of models are explored.
+* With various plots and queries, was able to find answers to many questions to find insights about prices per neighborhood in Boston, and property types and sizes, and even find the cost savings that could be realized by renting an Airbnb property rather than a hotel.
+
+
 ## Installations
 Jupyter notebook and helper files build using Python v3.8.3
 
