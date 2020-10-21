@@ -45,8 +45,6 @@ Libraries Included:
 * Author:  Lincoln Alexander
 * Acknowledgements:  Udacity made me do it
 
-* Primary Data Source: https://www.kaggle.com/airbnb/boston
-    Download calendar.csv
-    Download listings.csv
+* Primary Data Source: https://www.kaggle.com/airbnb/boston  download: calendar.csv and listings.csv
 
 * Hotel Price Data Source: https://www.statista.com/statistics/202376/average-daily-rate-of-hotels-in-boston/
