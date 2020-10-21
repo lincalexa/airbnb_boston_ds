@@ -16,6 +16,7 @@ Conclusions:
 * Random Forest Regression modeling worked much better than Linear Regression.  There might be better results if more different types of models are explored.
 * With various plots and queries, was able to find answers to many questions to find insights about prices per neighborhood in Boston, and property types and sizes, and even find the cost savings that could be realized by renting an Airbnb property rather than a hotel.
 
+Read the blog post on Medium to see the results: https://medium.com/@alexanli.wk/this-will-make-you-think-twice-before-booking-a-hotel-in-boston-cdfb209c2093
 
 ## Installations
 Jupyter notebook and helper files build using Python v3.8.3
